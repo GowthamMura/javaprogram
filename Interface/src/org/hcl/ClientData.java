@@ -5,7 +5,7 @@ public class ClientData implements ClientInfo,Company{
 	@Override
 	public void clientData() {
 	System.out.println("clent Data is 123");
-	System.out.println("clent Data is 123");
+	System.out.println("clent Data is 456");
 		
 		
 	}
